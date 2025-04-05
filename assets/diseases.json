@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Tomato Late Blight",
+    "description": "A serious disease caused by the fungus-like organism Phytophthora infestans. It affects tomatoes, potatoes, and other members of the Solanaceae family.",
+    "symptoms": "Dark, water-soaked spots on leaves that quickly enlarge to form purple-brown, oily-looking blotches. White fungal growth may appear on the undersides of leaves. Infected fruits develop dark, firm lesions.",
+    "treatment": "Remove and destroy infected plant parts. Apply copper-based fungicides or specific late blight fungicides. In severe cases, remove entire plants to prevent spread.",
+    "prevention": "Use resistant varieties. Provide good air circulation by proper spacing. Water at the base of plants. Apply preventative fungicides during humid weather. Practice crop rotation."
+  },
+  {
+    "name": "Apple Black Rot",
+    "description": "A fungal disease caused by Botryosphaeria obtusa that affects apple trees and fruit.",
+    "symptoms": "Circular lesions on leaves with purple edges and brown centers. Fruit develops small, dark spots that enlarge into sunken, black rotted areas with concentric rings.",
+    "treatment": "Remove and destroy infected fruit and cankers. Prune out dead wood. Apply fungicides during the growing season.",
+    "prevention": "Maintain tree vigor with proper fertilization. Prune and destroy dead wood. Control insects that create entry wounds. Apply protective fungicides starting at pink bud stage."
+  },
+  {
+    "name": "Grape Black Rot",
+    "description": "A fungal disease caused by Guignardia bidwellii that affects grape leaves, shoots, and fruit.",
+    "symptoms": "Small, reddish-brown spots on leaves that enlarge and develop tan centers with dark borders. Infected fruits initially show white dots, then develop into brown spots before the entire grape shrivels into a black mummy.",
+    "treatment": "Remove mummified fruits and infected leaves. Apply fungicides starting just before bloom and continuing through fruit development.",
+    "prevention": "Prune vines to improve air circulation. Remove wild grapes from nearby areas. Maintain a regular fungicide spray program in susceptible areas."
+  },
+  {
+    "name": "Tomato Early Blight",
+    "description": "A fungal disease caused by Alternaria solani that affects tomatoes and potatoes.",
+    "symptoms": "Dark brown spots with concentric rings on lower leaves first, resembling a target board. Leaves may yellow around spots before turning brown and falling off.",
+    "treatment": "Remove and destroy infected leaves. Apply fungicides labeled for early blight control.",
+    "prevention": "Mulch around plants to prevent soil splash. Avoid overhead watering. Use crop rotation. Choose resistant varieties when available."
+  },
+  {
+    "name": "Apple Scab",
+    "description": "A fungal disease caused by Venturia inaequalis that affects apple trees.",
+    "symptoms": "Olive-green to dark brown, velvety spots on leaves and fruit. Severely infected leaves may become twisted and fall prematurely. Scabby, corky areas develop on fruit.",
+    "treatment": "Apply fungicides starting at green tip stage and continuing through the growing season. Remove and destroy fallen leaves in autumn.",
+    "prevention": "Plant resistant varieties. Improve air circulation through proper pruning. Rake and destroy fallen leaves. Maintain a fungicide program in susceptible areas."
+  },
+  {
+    "name": "Strawberry Leaf Scorch",
+    "description": "A fungal disease caused by Diplocarpon earlianum that affects strawberry plants.",
+    "symptoms": "Small, purplish to reddish spots on the upper surface of leaves that enlarge and develop tan to gray centers with purplish margins. Severely affected leaves appear scorched and dry.",
+    "treatment": "Remove infected leaves. Apply fungicides labeled for leaf spot diseases on strawberries.",
+    "prevention": "Plant resistant varieties. Avoid overhead irrigation. Ensure adequate spacing between plants. Remove old leaves after harvest. Apply a layer of fresh mulch annually."
+  },
+  {
+    "name": "Corn Common Rust",
+    "description": "A fungal disease caused by Puccinia sorghi that affects corn plants.",
+    "symptoms": "Small, oval to elongated, reddish-brown pustules on leaves. Pustules release reddish-brown spores that can cover leaf surfaces in severe infections.",
+    "treatment": "Apply fungicides in commercial plantings when rust is detected early. For home gardens, remove infected leaves if the infection is limited.",
+    "prevention": "Plant resistant hybrids. Plant early in the season to avoid peak rust periods. Maintain plant vigor through proper fertilization."
+  },
+  {
+    "name": "Peach Bacterial Spot",
+    "description": "A bacterial disease caused by Xanthomonas arboricola pv. pruni that affects peach, nectarine, and other stone fruits.",
+    "symptoms": "Small water-soaked spots on leaves that turn purple or brown and may have yellow halos. Spots can fall out, creating a 'shot-hole' appearance. Fruit develops small, round, sunken lesions.",
+    "treatment": "Apply copper-based bactericides from bud break until harvest. Prune during dry weather to minimize spread.",
+    "prevention": "Plant resistant varieties. Avoid overhead irrigation. Prune to improve air circulation. Follow a regular copper spray program in areas where the disease is prevalent."
+  },
+  {
+    "name": "Potato Late Blight",
+    "description": "A serious disease caused by Phytophthora infestans, the same pathogen that causes tomato late blight and was responsible for the Irish potato famine.",
+    "symptoms": "Water-soaked, gray-green spots on leaves that quickly turn dark brown or black. White, fuzzy growth may appear on the undersides of leaves in humid conditions. Infected tubers develop coppery-brown, granular rot.",
+    "treatment": "Remove and destroy infected plants. Apply fungicides specifically labeled for late blight. Harvest during dry weather and allow tubers to dry before storage.",
+    "prevention": "Plant certified disease-free seed potatoes. Use resistant varieties. Practice crop rotation. Destroy volunteer potatoes. Hill soil around plants to protect tubers."
+  },
+  {
+    "name": "Tomato Mosaic Virus",
+    "description": "A viral disease that affects tomatoes and related plants, often transmitted by handling infected plants or using contaminated tools.",
+    "symptoms": "Light and dark green mottled areas on leaves, often accompanied by leaf distortion, curling, and stunting. Fruits may show yellow rings or mottling and can be misshapen.",
+    "treatment": "There is no cure for viral diseases. Remove and destroy infected plants to prevent spread to healthy plants.",
+    "prevention": "Plant resistant varieties. Wash hands and disinfect tools after handling tobacco products (which can carry the virus). Control insect vectors like aphids. Avoid working with plants when they are wet."
+  }
+]
